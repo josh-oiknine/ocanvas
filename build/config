@@ -1,4 +1,4 @@
-version = 2.8.4
+version = 2.8.5
 source_dir = ../src/
 output_full = ocanvas-{version}.js
 output_min = ocanvas-{version}.min.js
@@ -40,6 +40,7 @@ displayobjects/text.js
 displayobjects/arc.js
 displayobjects/ellipse.js
 displayobjects/polygon.js
+displayobjects/irregularpolygon.js
 displayobjects/line.js
 displayobjects/sprite.js
 -----

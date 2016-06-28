@@ -1,5 +1,5 @@
 /**
- * oCanvas v2.8.4
+ * oCanvas v2.8.5
  * http://ocanvas.org/
  *
  * Copyright 2011-2016, Johannes Koggdal
@@ -30,6 +30,7 @@ require('./src/displayobjects/text');
 require('./src/displayobjects/arc');
 require('./src/displayobjects/ellipse');
 require('./src/displayobjects/polygon');
+require('./src/displayobjects/irregularpolygon');
 require('./src/displayobjects/line');
 require('./src/displayobjects/sprite');
 require('./src/xccessors');
